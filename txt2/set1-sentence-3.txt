@@ -1,0 +1,11 @@
+How many degrees centigrade in the living room ?
+what is the brightness in the sitting room ?
+what is the air quality of the living room ?
+what is the status of the air conditioner ?
+what is the status of the smart light ?
+what is the status of the pm2.5 monitor ?
+what is the status of the air purifier ?
+what is the temperature of the air conditioner ?
+what is the brightness of the smart light ?
+what is the pm2.5 of the pm2.5 monitor ?
+what is the pm2.5 of the air purifier ?

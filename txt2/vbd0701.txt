@@ -1,0 +1,40 @@
+turn on the air conditioner in the sitting room .
+turn off the air conditioner in the sitting room .
+open the air conditioner in the sitting room .
+shut down the air conditioner in the sitting room .
+set the temperature of the air conditioner in the sitting room to x .
+turn the temperature of the air conditioner in the sitting room to x .
+turn on the smart light in the sitting room .
+turn off the smart light in the sitting room .
+open the smart light in the sitting room .
+shut down the smart light in the sitting room .
+set the brightness of the smart light in the sitting room to x .
+turn the brightness of the smart light in the sitting room to x .
+turn on the pm2.5 monitor in the sitting room .
+turn off the pm2.5 monitor in the sitting room .
+open the pm2.5 monitor in the sitting room .
+shut down the pm2.5 monitor in the sitting room .
+set the pm2.5 of the pm2.5 monitor in the sitting room to x .
+turn the pm2.5 of the pm2.5 monitor in the sitting room to x .
+turn on the air purifier in the sitting room .
+turn off the air purifier in the sitting room .
+open the air purifier in the sitting room .
+shut down the air purifier in the sitting room .
+set the pm2.5 of the air purifier in the sitting room to x .
+turn the pm2.5 of the air purifier in the sitting room to x .
+what is the status of the air conditioner ?
+is the air conditioner on ?
+is the air conditioner off ?
+what is the status of the smart light ?
+is the smart light on ?
+is the smart light off ?
+what is the status of the pm2.5 monitor ?
+is the pm2.5 monitor on ?
+is the pm2.5 monitor off ?
+what is the status of the air purifier ?
+is the air purifier on ?
+is the air purifier off ?
+what is the temperature of the air conditioner ?
+what is the brightness of the smart light ?
+what is the pm2.5 of the pm2.5 monitor ?
+what is the pm2.5 of the air purifier ?

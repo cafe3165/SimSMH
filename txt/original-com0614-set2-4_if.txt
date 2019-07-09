@@ -1,0 +1,35 @@
+if the temperature is higher than x in the sitting room
+if the brightness in the sitting room is higher than x 0.9971
+if the temperature in the sitting room is more than x 0.9979
+if the temperature in the sitting room is less than x 0.9982
+if the temperature of the sitting room is lower than x 0.9987
+if the temperature in the sitting room is higher than x 0.9999
+
+if the temperature is lower than x
+if the brightness in the sitting room is higher than x 0.9856
+if the brightness of the sitting room is lower than x 0.9860
+if the temperature in the sitting room is less than x 0.9864
+if the temperature in the sitting room is higher than x 0.9894
+if the temperature of the sitting room is lower than x 0.9903
+
+if the brightness is between y and x in the sitting room
+if the brightness in the sitting room is below x 0.9898
+if the brightness in the sitting room is above x 0.9900
+if the pm2.5 in the sitting room is between x and y 0.9963
+if the temperature in the sitting room is between x and y 0.9972
+if the brightness in the sitting room is between x and y 0.9999
+
+if the brightness is higher than x
+if the temperature in the sitting room is higher than x 0.9804
+if the brightness in the sitting room is more than x 0.9810
+if the brightness in the sitting room is less than x 0.9828
+if the brightness of the sitting room is lower than x 0.9849
+if the brightness in the sitting room is higher than x 0.9861
+
+if the pm25 is lower than x
+if the temperature in the sitting room is higher than x 0.9883
+if the pm2.5 in the sitting room is higher than x 0.9888
+if the brightness of the sitting room is lower than x 0.9891
+if the temperature of the sitting room is lower than x 0.9897
+if the pm2.5 of the sitting room is lower than x 0.9901
+

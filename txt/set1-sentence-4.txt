@@ -1,0 +1,5 @@
+open the air conditioner if temperature of sitting room is higher than 25 degrees .
+if temperature of sitting room is below 18 degrees , raise the room temperature to 23 degrees .
+turn on the smart light if the light of sitting room is dim .
+open the air purifier if indoor air quality of the sitting room is bad .
+turn off the light of the sitting room if the room is well lighted .

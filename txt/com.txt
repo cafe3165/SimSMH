@@ -1,0 +1,110 @@
+turn off the light in sitting room
+monitor the temperature of sitting room 0.9793745478973968
+what is the temperature in the sitting room 0.9803763423746568
+what is the brightness in the sitting room 0.9814380968743281
+
+turn off the light in bedroom
+what is the status of the smart light 0.975655818813877
+open the air conditioner 0.9791070088924674
+turn off the air conditioner 0.9816513262258113
+
+turn off the light in balcony
+what is the brightness in the sitting room 0.9851389676216549
+what is the pm2.5 in the sitting room 0.9875478048882042
+assign the brightness of sitting room 0.98822837129751
+
+turn up the air conditioner in sitting room
+assign the temperature of sitting room 0.9780364132261881
+monitor the temperature of sitting room 0.9785448389846283
+turn on the smart light 0.979550365291525
+
+turn up the air conditioner in bedroom
+turn off the air2s 0.984172826966665
+what is the brightness in the sitting room 0.984681202410985
+what is the temperature in the sitting room 0.9853691275976018
+
+turn up the air Conditioner in Balcony
+reduce the temperature of sitting room 0.9843495712656649
+what is the pm2.5 in the sitting room 0.9874773318831119
+assign the brightness of sitting room 0.9900612556888457
+
+set brightness of light of bedroom to 0
+what is the brightness in the sitting room 0.9851389676216549
+what is the pm2.5 in the sitting room 0.9875478048882042
+assign the brightness of sitting room 0.98822837129751
+
+set brightness of light of bedroom to 0
+what is the pm2.5 in the sitting room 0.9863440533332721
+what is the brightness in the sitting room 0.9884218031678531
+what is the temperature in the sitting room 0.9890717957179295
+
+increase the brightness of light in bedroom
+what is the pm2.5 in the sitting room 0.9878485756023221
+reduce the temperature of sitting room 0.9893164706611318
+assign the brightness of sitting room 0.9955519772234698
+
+reduce the temperature of air conditioner in balcony
+what is the status of the smart light 0.9813084251027517
+open the air conditioner 0.9825164721994768
+turn off the air conditioner 0.9845966700429976
+
+turn on the light in the balcony
+turn the temperature of the air conditioner to x 0.974934974510096
+monitor the temperature of sitting room 0.9766355472585353
+what is the brightness in the sitting room 0.976879297648687
+
+increase the humidity of the water pump in the balcony
+what is the temperature in the sitting room 0.9905684094033795
+what is the pm2.5 in the sitting room 0.9928627826447491
+what is the brightness in the sitting room 0.996191756254168
+
+reduce the brightness of the light in the sitting room
+reduce the temperature of sitting room 0.9227972142106259
+assign the temperature of sitting room 0.9297894842146058
+monitor the temperature of sitting room 0.9323555625372033
+
+reduce the PM25 of the PM25 Monitor in the bedroom
+what is the status of the smart light 0.98422166204024
+is the air conditioner off 0.984894231329512
+turn off the air conditioner 0.9900568548306714
+
+turn down the air conditioner of the sitting room to 10 degrees
+set the brightness of the smart light to x 0.9798213768919435
+turn off the smart light 0.9799706548549787
+open the smart light 0.9854524274764788
+
+turn off the light in the sitting room
+turn on the smart light 0.9722879927430956
+assign the temperature of sitting room 0.977904357784263
+reduce the temperature of sitting room 0.9806169060488314
+
+increase the brightness of the light in the bedroom
+open the smart light 0.9742621955616393
+open the air conditioner 0.979377782670654
+turn off the air conditioner 0.982403677359178
+
+turn on the light in the bedroom
+what is the status of the smart light 0.9813084251027517
+open the air conditioner 0.9825164721994768
+turn off the air conditioner 0.9845966700429976
+
+turn off the air conditioner in the balcony
+what is the brightness in the sitting room 0.9801581075516753
+assign the temperature of sitting room 0.9809078311601176
+reduce the temperature of sitting room 0.9832016877831602
+
+turn up the air conditioner of the balcony to 30 degrees
+increase the temperature of sitting room 0.9851017057111442
+reduce the temperature of sitting room 0.9870641003996675
+assign the temperature of sitting room 0.9901009807219785
+
+turn off the flower monitor in the balcony
+what is the brightness in the sitting room 0.9841743267592673
+reduce the pm2.5 of sitting room 0.9874572681782326
+monitor the temperature of sitting room 0.9894949704892937
+
+increase the brightness of the light in the sitting room
+turn the temperature of the air conditioner to x 0.9833357279299473
+reduce the temperature of sitting room 0.9835180630184005
+turn on the smart light 0.983879410111729
+

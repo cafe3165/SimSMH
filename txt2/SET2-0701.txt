@@ -1,0 +1,79 @@
+monitor the temperature of sitting room .
+increase the temperature of sitting room .
+reduce the temperature of sitting room .
+assign the temperature of sitting room .
+monitor the brightness of sitting room .
+increase the brightness of sitting room .
+turn up the brightness of sitting room .
+assign the brightness of sitting room .
+reduce the luminance of sitting room .
+monitor the Particulate Matter 2.5 of sitting room .
+reduce the pm2.5 of sitting room .
+set the temperature of sitting room to x .
+set the brightness of sitting room to x .
+set the pm2.5 of sitting room to x .
+turn the air conditioner of sitting room on . 
+turn off the air conditioner in the living room . 
+open the air conditioner in the sitting room .
+shut down the air conditioner in the sitting room .
+set the temperature of the air conditioning in the sitting room to x .
+turn the temperature of the air conditioner in the sitting room to x .
+turn on the smart light in the sitting room .
+turn the smart light in the sitting room off .
+open the smart light in the sitting room .
+shut down the smart light in the sitting room .
+set the brightness of the smart light in the sitting room to x .
+turn the brightness of the smart light in the sitting room to x .
+turn up the brightness of sitting room .
+turn on the pm2.5 monitor in the sitting room .
+turn off the pm2.5 monitor in the sitting room .
+open the pm2.5 monitor in the sitting room .
+shut down the pm2.5 monitor in the sitting room .
+set the pm2.5 of the pm2.5 monitor in the sitting room to x .
+turn the pm2.5 of the pm2.5 monitor in the sitting room to x .
+turn on the air purifier in the sitting room .
+turn off the air purifier in the sitting room .
+open the air purifier in the sitting room .
+shut down the air purifier in the sitting room .
+set the pm2.5 of the air purifier in the sitting room to x .
+turn the pm2.5 of the air purifier in the sitting room to x .
+what is the temperature in the sitting room ?
+what is the brightness in the living room ?
+what is the pm2.5 in the sitting room ?
+is the air conditioner on ?
+is air conditioner off ?
+is the smart light on ?
+is the smart light off ?
+is the pm2.5 monitor on ?
+is the pm2.5 monitor off ?
+is the air cleaner on ? 
+is the air purifier off ?
+what is the status of the air conditioner ?
+what is the state of the smart light ?
+what is the status of the pm2.5 monitor ?
+what is the status of the air cleaner ?
+what is the temperature of the air conditioner ?
+what is the brightness of the smart light ?
+what is the pm2.5 of the pm2.5 monitor ?
+what is the pm2.5 of the air purifier ?
+if the temperature of sitting room is below x, increase the temperature of sitting room.
+if the temperature in the sitting room is less than x, increase the temperature of sitting room.
+if the temperature in the drawing room is lower than x, increase the temperature of drawing room.
+if the living room temperature is above x, reduce the temperature of sitting room . 
+if the temperature in the sitting room is higher than x, reduce the temperature of sitting room .
+if the temperature in the sitting room is more than x, reduce the temperature of sitting room .
+if the temperature in the sitting room is between x and y,increase the temperature of sitting room .
+if the luminance in the sitting room is below x, turn on the smart light in the sitting room. 
+if the brightness in the sitting room is less than x, turn the smart light in the sitting room off .
+if the brightness in the sitting room is lower than x, increase the brightness of sitting room .
+if the luminance in the living room is above x, reduce the luminance of sitting room . 
+if the living room is brighter than x, reduce the brightness of sitting room . 
+if the brightness in the sitting room is more than x,reduce the brightness of sitting room .
+if the brightness in the sitting room is between x and y,reduce the brightness of sitting room .
+if the pm2.5 in the sitting room is below x,turn off the pm2.5 monitor in the sitting room .
+if the pm2.5 in the sitting room is less than x,turn off the pm2.5 monitor in the sitting room .
+if the pm2.5 in the drawing room is lower than x,turn off the pm2.5 monitor in the drawing room .
+if the pm2.5 in the sitting room is above x, turn the air purifier in the sitting room on.
+if the pm2.5 in the sitting room is higher than x,turn on the air purifier in the sitting room .
+if the pm2.5 in the sitting room is more than x,turn on the air purifier in the sitting room .
+if the pm2.5 in the sitting room is between x and y, turn off the air purifier in the sitting room .

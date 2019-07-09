@@ -1,0 +1,147 @@
+if the temperature in the sitting room is below 15 degrees , turn up the air-conditioning .
+if the temperature in the sitting room is above x 0.9906
+if the temperature in the sitting room is more than x 0.9907
+if the temperature in the sitting room is below x 0.9915
+if the temperature in the sitting room is lower than x 0.9934
+if the temperature in the sitting room is higher than x 0.9934
+
+if the temperature in the sitting room is less than 16 degrees, increase the temperature of sitting room .
+if the pm2.5 in the sitting room is higher than x 0.9940
+if the temperature in the sitting room is more than x 0.9959
+if the temperature in the sitting room is less than x 0.9961
+if the temperature in the sitting room is lower than x 0.9964
+if the temperature in the sitting room is higher than x 0.9971
+
+if the temperature in the sitting room is lower than 13 degrees, set the temperature of sitting room to 20 degrees .
+if the temperature in the sitting room is less than x 0.9910
+if the temperature in the sitting room is more than x 0.9914
+if the temperature in the sitting room is below x 0.9914
+if the temperature in the sitting room is higher than x 0.9943
+if the temperature in the sitting room is lower than x 0.9944
+
+if the temperature in the living room is above 27 degrees, set the temperature of living room to 19 degrees .
+if the temperature in the sitting room is less than x 0.9875
+if the temperature in the sitting room is more than x 0.9881
+if the temperature in the sitting room is below x 0.9883
+if the temperature in the sitting room is lower than x 0.9895
+if the temperature in the sitting room is higher than x 0.9906
+
+if the temperature in the sitting room is higher than 26 degrees centigrade , shut down the air conditioner in the sitting room .
+if the temperature in the sitting room is less than x 0.9857
+if the temperature in the sitting room is below x 0.9861
+if the temperature in the sitting room is more than x 0.9862
+if the temperature in the sitting room is lower than x 0.9891
+if the temperature in the sitting room is higher than x 0.9893
+
+if the temperature in the sitting room is more than 30 degrees, turn down the temperature.
+if the pm2.5 in the sitting room is less than x 0.9934
+if the temperature in the sitting room is higher than x 0.9935
+if the temperature in the sitting room is more than x 0.9944
+if the pm2.5 in the sitting room is lower than x 0.9945
+if the pm2.5 in the sitting room is higher than x 0.9951
+
+if the temperature in the sitting room is between 12 degrees and 26 degrees , turn off the air conditioner.
+if the temperature in the sitting room is below x 0.9815
+if the temperature in the sitting room is more than x 0.9826
+if the temperature in the sitting room is between x and y 0.9830
+if the temperature in the sitting room is lower than x 0.9841
+if the temperature in the sitting room is higher than x 0.9843
+
+if the sitting room is well lighted, turn off the light.
+if the pm2.5 in the sitting room is higher than x 0.9848
+if the pm2.5 in the sitting room is above x 0.9849
+if the pm2.5 in the sitting room is lower than x 0.9859
+if the pm2.5 in the sitting room is less than x 0.9865
+if the pm2.5 in the sitting room is more than x 0.9872
+
+if the living room is bright, turn off the smart light .
+if the brightness in the sitting room is more than x 0.9858
+if the pm2.5 in the sitting room is lower than x 0.9866
+if the pm2.5 in the sitting room is higher than x 0.9878
+if the pm2.5 in the sitting room is less than x 0.9892
+if the pm2.5 in the sitting room is more than x 0.9893
+
+if the brightness in the sitting room is lower than 15, increase the brightness of sitting room .
+if the temperature in the sitting room is higher than x 0.9923
+if the brightness in the sitting room is more than x 0.9923
+if the brightness in the sitting room is less than x 0.9927
+if the brightness in the sitting room is higher than x 0.9957
+if the brightness in the sitting room is lower than x 0.9961
+
+if the brightness in the sitting room is above 30, reduce the brightness .
+if the brightness in the sitting room is less than x 0.9913
+if the brightness in the sitting room is above x 0.9932
+if the brightness in the sitting room is below x 0.9933
+if the brightness in the sitting room is higher than x 0.9942
+if the brightness in the sitting room is lower than x 0.9944
+
+if the brightness in the sitting room is higher than 35,turn off the smart light .
+if the brightness in the sitting room is less than x 0.9927
+if the brightness in the sitting room is more than x 0.9929
+if the pm2.5 in the sitting room is higher than x 0.9933
+if the brightness in the sitting room is lower than x 0.9934
+if the brightness in the sitting room is higher than x 0.9941
+
+if the brightness in the sitting room is more than 30,turn off the smart light of sitting room.
+if the pm2.5 in the sitting room is higher than x 0.9930
+if the pm2.5 in the sitting room is more than x 0.9932
+if the brightness in the sitting room is less than x 0.9933
+if the pm2.5 in the sitting room is less than x 0.9935
+if the brightness in the sitting room is more than x 0.9942
+
+if the brightness in the sitting room is between 23 and 30,set the brightness of sitting room to 25.
+if the brightness in the sitting room is below x 0.9907
+if the brightness in the sitting room is above x 0.9908
+if the brightness in the sitting room is more than x 0.9908
+if the brightness in the sitting room is higher than x 0.9914
+if the brightness in the sitting room is lower than x 0.9920
+
+if the pm2.5 in the sitting room is below 25,turn off the air purifier .
+if the temperature in the sitting room is above x 0.9858
+if the pm2.5 in the sitting room is higher than x 0.9862
+if the pm2.5 in the sitting room is below x 0.9870
+if the pm2.5 in the sitting room is lower than x 0.9877
+if the pm2.5 in the sitting room is above x 0.9880
+
+if the pm2.5 in the sitting room is less than 24 , turn off the air purifier .
+if the temperature in the sitting room is more than x 0.9890
+if the pm2.5 in the sitting room is lower than x 0.9894
+if the pm2.5 in the sitting room is higher than x 0.9899
+if the pm2.5 in the sitting room is less than x 0.9901
+if the pm2.5 in the sitting room is more than x 0.9902
+
+if the pm2.5 in the sitting room is lower than 30,turn off the air purifier .
+if the pm2.5 in the sitting room is less than x 0.9864
+if the temperature in the sitting room is more than x 0.9865
+if the temperature in the sitting room is lower than x 0.9874
+if the pm2.5 in the sitting room is higher than x 0.9885
+if the pm2.5 in the sitting room is lower than x 0.9899
+
+if the air quality of the sitting room is bad , turn on the air purifier .
+if the pm2.5 in the sitting room is lower than x 0.9824
+if the temperature in the sitting room is more than x 0.9826
+if the pm2.5 in the sitting room is less than x 0.9827
+if the pm2.5 in the sitting room is more than x 0.9830
+if the pm2.5 in the sitting room is higher than x 0.9832
+
+if the air in the living room is awful , reduce the pm2.5 of the living room.
+if the temperature in the sitting room is more than x 0.9840
+if the pm2.5 in the sitting room is lower than x 0.9855
+if the pm2.5 in the sitting room is less than x 0.9861
+if the pm2.5 in the sitting room is higher than x 0.9868
+if the pm2.5 in the sitting room is more than x 0.9871
+
+if the pm2.5 in the sitting room is more than 50, turn on the air cleaner of the sitting room.
+if the temperature in the sitting room is more than x 0.9893
+if the pm2.5 in the sitting room is lower than x 0.9912
+if the pm2.5 in the sitting room is higher than x 0.9913
+if the pm2.5 in the sitting room is less than x 0.9916
+if the pm2.5 in the sitting room is more than x 0.9924
+
+if the pm2.5 in the sitting room is between 10 and 22, open the air purifier.
+if the pm2.5 in the sitting room is above x 0.9871
+if the pm2.5 in the sitting room is more than x 0.9878
+if the pm2.5 in the sitting room is higher than x 0.9881
+if the pm2.5 in the sitting room is between x and y 0.9881
+if the pm2.5 in the sitting room is lower than x 0.9889
+

@@ -1,0 +1,35 @@
+open the air conditioner if temperature of sitting room is higher than 25 degrees .
+if the brightness in the sitting room is higher than x 0.9811
+if the temperature in the sitting room is more than x 0.9825
+if the temperature in the sitting room is less than x 0.9839
+if the temperature of the sitting room is lower than x 0.9849
+if the temperature in the sitting room is higher than x 0.9878
+
+if temperature of sitting room is below 18 degrees , raise the room temperature to 23 degrees .
+if the temperature in the sitting room is less than x 0.9812
+if the temperature of the sitting room is lower than x 0.9825
+if the temperature in the sitting room is above x 0.9829
+if the temperature in the sitting room is below x 0.9846
+if the temperature in the sitting room is higher than x 0.9848
+
+turn on the smart light if the light of sitting room is dim .
+if the brightness of the sitting room is lower than x 0.9845
+if the pm2.5 in the sitting room is above x 0.9852
+if the brightness in the sitting room is more than x 0.9853
+if the brightness in the sitting room is above x 0.9854
+if the brightness in the sitting room is less than x 0.9857
+
+open the air purifier if indoor air quality of the sitting room is bad .
+if the pm2.5 in the sitting room is higher than x 0.9825
+if the pm2.5 in the sitting room is more than x 0.9828
+if the temperature in the sitting room is less than x 0.9835
+if the pm2.5 in the sitting room is less than x 0.9837
+if the temperature in the sitting room is more than x 0.9838
+
+turn off the light of the sitting room if the room is well lighted .
+if the pm2.5 in the sitting room is below x 0.9800
+if the temperature in the sitting room is more than x 0.9801
+if the pm2.5 in the sitting room is above x 0.9823
+if the pm2.5 in the sitting room is more than x 0.9828
+if the pm2.5 in the sitting room is less than x 0.9831
+

@@ -1,0 +1,56 @@
+1. is the air conditioner on ?
+is the smart light on ? 0.9802
+is the air purifier off ? 0.9892
+is the air purifier on ? 0.9934
+is the air conditioner off ? 0.9954
+is the air conditioner on ? 0.9999
+
+2. is air conditioner off ?
+is the smart light off ? 0.9691
+is the air purifier on ? 0.9769
+is the air conditioner on ? 0.9861
+is the air purifier off ? 0.9869
+is the air conditioner off ? 0.9951
+
+3. is the smart light on ?
+is the air conditioner on ? 0.9802
+is the pm2.5 monitor off ? 0.9825
+is the pm2.5 monitor on ? 0.9828
+is the smart light off ? 0.9959
+is the smart light on ? 0.9999
+
+4. is the smart light off ?
+is the air conditioner on ? 0.9785
+is the air conditioner off ? 0.9801
+is the pm2.5 monitor off ? 0.9834
+is the smart light on ? 0.9959
+is the smart light off ? 0.9999
+
+5. is the pm2.5 monitor on ?
+is the smart light off ? 0.9741
+is the air conditioner on ? 0.9748
+is the smart light on ? 0.9828
+is the pm2.5 monitor off ? 0.9942
+is the pm2.5 monitor on ? 0.9999
+
+6. is the pm2.5 monitor off ?
+is the air conditioner on ? 0.9772
+is the smart light on ? 0.9825
+is the smart light off ? 0.9834
+is the pm2.5 monitor on ? 0.9942
+is the pm2.5 monitor off ? 0.9999
+
+7. is the air cleaner on ?
+is the air purifier off ? 0.9862
+is the smart light on ? 0.9863
+is the air conditioner off ? 0.9883
+is the air purifier on ? 0.9913
+is the air conditioner on ? 0.9937
+
+8. is the air purifier off ?
+is the smart light off ? 0.9764
+is the air conditioner on ? 0.9892
+is the air conditioner off ? 0.9935
+is the air purifier on ? 0.9950
+is the air purifier off ? 0.9999
+

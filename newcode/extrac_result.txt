@@ -1,0 +1,1066 @@
+1
+device:['light']
+location:['sitting room']
+不存在属性
+操作:turn off
+2
+device:['light']
+location:['bedroom']
+不存在属性
+操作:turn off
+3
+device:['light']
+location:['balcony']
+不存在属性
+操作:turn off
+4
+device:['air conditioner']
+不存在地点
+不存在属性
+操作:turn up
+5
+device:['air conditioner']
+location:['bedroom']
+不存在属性
+操作:turn up
+6
+不存在设备
+不存在地点
+不存在属性
+操作:turn up
+7
+device:['light']
+location:['bedroom']
+attribute:['brightness']
+不存在操作
+8
+device:['light']
+location:['bedroom']
+attribute:['brightness']
+不存在操作
+9
+device:['light']
+location:['bedroom']
+attribute:['brightness']
+操作:increse
+10
+device:['air conditioner']
+location:['balcony']
+attribute:['temperature']
+操作:reduce
+11
+device:['light']
+location:['balcony']
+不存在属性
+操作:turn on
+12
+不存在设备
+location:['balcony']
+不存在属性
+操作:increase
+13
+device:['light']
+location:['sitting room']
+attribute:['brightness']
+操作:reduce
+14
+不存在设备
+location:['bedroom']
+不存在属性
+操作:reduce
+15
+device:['air conditioner']
+location:['sitting room']
+不存在属性
+操作:turn down
+16
+device:['light']
+location:['sitting room']
+不存在属性
+操作:turn off
+17
+device:['light']
+location:['bedroom']
+attribute:['brightness']
+操作:increase
+18
+device:['light']
+location:['bedroom']
+不存在属性
+操作:turn on
+19
+device:['air conditioner']
+location:['balcony']
+不存在属性
+操作:turn off
+20
+device:['air conditioner']
+location:['balcony']
+不存在属性
+操作:turn up
+21
+不存在设备
+location:['balcony']
+不存在属性
+操作:turn off
+22
+device:['light']
+location:['sitting room']
+attribute:['brightness']
+操作:increase
+23
+device:['light']
+location:['sitting room']
+attribute:['brightness']
+操作:reduce
+24
+不存在设备
+location:['balcony']
+不存在属性
+操作:increase
+25
+device:['air conditioner']
+location:['bedroom']
+不存在属性
+操作:turn up
+26
+device:['light']
+location:['bedroom', 'sitting room']
+不存在属性
+操作:turn on
+27
+device:['light']
+location:['bedroom']
+attribute:['brightness']
+操作:increase
+28
+device:['air conditioner']
+location:['bedroom']
+不存在属性
+操作:assign
+29
+device:['air purifier']
+location:['balcony']
+不存在属性
+操作:turn off
+30
+device:['light']
+location:['bedroom', 'sitting room']
+attribute:['brightness']
+操作:reduce
+31
+device:['light']
+location:['sitting room']
+不存在属性
+操作:turn on
+32
+不存在设备
+location:['sitting room']
+attribute:['brightness']
+操作:increase
+33
+device:['air purifier']
+location:['bedroom']
+不存在属性
+操作:turn on
+34
+不存在设备
+location:['bedroom']
+不存在属性
+操作:reduce
+35
+不存在设备
+location:['balcony']
+不存在属性
+操作:turn on
+36
+不存在设备
+location:['balcony']
+不存在属性
+操作:turn off
+37
+device:['air conditioner']
+location:['sitting room']
+不存在属性
+操作:turn off
+38
+device:['air conditioner']
+location:['bedroom']
+不存在属性
+不存在操作
+39
+不存在设备
+location:['bedroom']
+不存在属性
+操作:turn down
+40
+不存在设备
+不存在地点
+不存在属性
+操作:turn up
+41
+不存在设备
+不存在地点
+不存在属性
+操作:increase
+42
+不存在设备
+location:['bedroom']
+attribute:['brightness']
+操作:reduce
+43
+不存在设备
+location:['sitting room']
+attribute:['temperature']
+不存在操作
+44
+不存在设备
+不存在地点
+不存在属性
+操作:reduce
+45
+不存在设备
+不存在地点
+不存在属性
+不存在操作
+46
+不存在设备
+location:['balcony']
+attribute:['brightness']
+不存在操作
+47
+不存在设备
+不存在地点
+不存在属性
+操作:turn on
+48
+device:['light']
+不存在地点
+不存在属性
+操作:switch off
+49
+不存在设备
+不存在地点
+不存在属性
+操作:raise
+50
+device:['air conditioner']
+不存在地点
+不存在属性
+操作:turn on
+51
+device:['air conditioner']
+location:['sitting room']
+不存在属性
+操作:turn off
+52
+不存在设备
+location:['sitting room']
+attribute:['temperature']
+不存在操作
+53
+device:['light']
+location:['bedroom', 'bedroom']
+不存在属性
+操作:turn on
+54
+device:['light']
+location:['bedroom', 'bedroom']
+不存在属性
+操作:turn off
+55
+不存在设备
+location:['bedroom']
+不存在属性
+操作:monitor
+56
+不存在设备
+location:['sitting room']
+不存在属性
+操作:reduce
+57
+不存在设备
+location:['bedroom']
+不存在属性
+操作:increase
+58
+不存在设备
+location:['balcony']
+不存在属性
+操作:turn off
+59
+不存在设备
+location:['balcony']
+不存在属性
+操作:turn on
+60
+不存在设备
+location:['bedroom']
+不存在属性
+操作:purify
+61
+device:['light']
+location:['bedroom']
+不存在属性
+操作:turn off
+62
+不存在设备
+location:['balcony']
+不存在属性
+操作:reduce
+63
+device:['light', 'light']
+不存在地点
+attribute:['brightness']
+操作:assign
+64
+不存在设备
+location:['sitting room']
+不存在属性
+操作:reduce
+65
+device:['air conditioner']
+location:['sitting room']
+不存在属性
+操作:increase
+66
+device:['light']
+location:['bedroom']
+不存在属性
+操作:turn off
+67
+device:['air purifier']
+location:['bedroom']
+不存在属性
+操作:turn on
+68
+不存在设备
+location:['balcony']
+不存在属性
+操作:turn on
+69
+不存在设备
+location:['balcony']
+不存在属性
+操作:turn off
+70
+device:['air conditioner']
+location:['balcony']
+不存在属性
+操作:reduce
+71
+不存在设备
+不存在地点
+不存在属性
+不存在操作
+1
+device:['light']
+location:['sitting room']
+不存在属性
+操作:turn off
+2
+device:['light']
+location:['bedroom']
+不存在属性
+操作:turn off
+3
+device:['light']
+location:['balcony']
+不存在属性
+操作:turn off
+4
+device:['air conditioner']
+不存在地点
+不存在属性
+操作:turn up
+5
+device:['air conditioner']
+location:['bedroom']
+不存在属性
+操作:turn up
+6
+不存在设备
+不存在地点
+不存在属性
+操作:turn up
+7
+device:['light']
+location:['bedroom']
+attribute:['brightness']
+不存在操作
+8
+device:['light']
+location:['bedroom']
+attribute:['brightness']
+不存在操作
+9
+device:['light']
+location:['bedroom']
+attribute:['brightness']
+操作:increse
+10
+device:['air conditioner']
+location:['balcony']
+attribute:['temperature']
+操作:reduce
+11
+device:['light']
+location:['balcony']
+不存在属性
+操作:turn on
+12
+device:['water pump']
+location:['balcony']
+attribute:['humidity']
+操作:increase
+13
+device:['light']
+location:['sitting room']
+attribute:['brightness']
+操作:reduce
+14
+不存在设备
+location:['bedroom']
+不存在属性
+操作:reduce
+15
+device:['air conditioner']
+location:['sitting room']
+不存在属性
+操作:turn down
+16
+device:['light']
+location:['sitting room']
+不存在属性
+操作:turn off
+17
+device:['light']
+location:['bedroom']
+attribute:['brightness']
+操作:increase
+18
+device:['light']
+location:['bedroom']
+不存在属性
+操作:turn on
+19
+device:['air conditioner']
+location:['balcony']
+不存在属性
+操作:turn off
+20
+device:['air conditioner']
+location:['balcony']
+不存在属性
+操作:turn up
+21
+device:['flower monitor']
+location:['balcony']
+不存在属性
+操作:turn off
+22
+device:['light']
+location:['sitting room']
+attribute:['brightness']
+操作:increase
+23
+device:['light']
+location:['sitting room']
+attribute:['brightness']
+操作:reduce
+24
+不存在设备
+location:['balcony']
+attribute:['humidity']
+操作:increase
+25
+device:['air conditioner']
+location:['bedroom']
+不存在属性
+操作:turn up
+26
+device:['light']
+location:['bedroom', 'sitting room']
+不存在属性
+操作:turn on
+27
+device:['light']
+location:['bedroom']
+attribute:['brightness']
+操作:increase
+28
+device:['air conditioner']
+location:['bedroom']
+不存在属性
+操作:assign
+29
+device:['air purifier']
+location:['balcony']
+不存在属性
+操作:turn off
+30
+device:['light']
+location:['bedroom', 'sitting room']
+attribute:['brightness']
+操作:reduce
+31
+device:['light']
+location:['sitting room']
+不存在属性
+操作:turn on
+32
+不存在设备
+location:['sitting room']
+attribute:['brightness']
+操作:increase
+33
+device:['air purifier']
+location:['bedroom']
+不存在属性
+操作:turn on
+34
+不存在设备
+location:['bedroom']
+不存在属性
+操作:reduce
+35
+device:['flower monitor']
+location:['balcony']
+不存在属性
+操作:turn on
+36
+device:['water pump']
+location:['balcony']
+不存在属性
+操作:turn off
+37
+device:['air conditioner']
+location:['sitting room']
+不存在属性
+操作:turn off
+38
+device:['air conditioner']
+location:['bedroom']
+不存在属性
+不存在操作
+39
+不存在设备
+location:['bedroom']
+不存在属性
+操作:turn down
+40
+不存在设备
+不存在地点
+不存在属性
+操作:turn up
+41
+不存在设备
+不存在地点
+attribute:['humidity']
+操作:increase
+42
+不存在设备
+location:['bedroom']
+attribute:['brightness']
+操作:reduce
+43
+不存在设备
+location:['sitting room']
+attribute:['temperature']
+不存在操作
+44
+不存在设备
+不存在地点
+不存在属性
+操作:reduce
+45
+device:['water pump']
+不存在地点
+不存在属性
+不存在操作
+46
+不存在设备
+location:['balcony']
+attribute:['brightness']
+不存在操作
+47
+不存在设备
+不存在地点
+不存在属性
+操作:turn on
+48
+device:['light']
+不存在地点
+不存在属性
+操作:switch off
+49
+不存在设备
+不存在地点
+不存在属性
+操作:raise
+50
+device:['air conditioner']
+不存在地点
+不存在属性
+操作:turn on
+51
+device:['air conditioner']
+location:['sitting room']
+不存在属性
+操作:turn off
+52
+不存在设备
+location:['sitting room']
+attribute:['temperature']
+不存在操作
+53
+device:['light']
+location:['bedroom', 'bedroom']
+不存在属性
+操作:turn on
+54
+device:['light']
+location:['bedroom', 'bedroom']
+不存在属性
+操作:turn off
+55
+不存在设备
+location:['bedroom']
+attribute:['humidity']
+操作:monitor
+56
+不存在设备
+location:['sitting room']
+attribute:['humidity']
+操作:reduce
+57
+不存在设备
+location:['bedroom']
+attribute:['humidity']
+操作:increase
+58
+device:['water pump']
+location:['balcony']
+不存在属性
+操作:turn off
+59
+device:['water pump']
+location:['balcony']
+不存在属性
+操作:turn on
+60
+不存在设备
+location:['bedroom']
+不存在属性
+操作:purify
+61
+device:['light']
+location:['bedroom']
+不存在属性
+操作:turn off
+62
+device:['water pump']
+location:['balcony']
+attribute:['humidity']
+操作:reduce
+63
+device:['light', 'light']
+不存在地点
+attribute:['brightness']
+操作:assign
+64
+不存在设备
+location:['sitting room']
+不存在属性
+操作:reduce
+65
+device:['air conditioner']
+location:['sitting room']
+不存在属性
+操作:increase
+66
+device:['light']
+location:['bedroom']
+不存在属性
+操作:turn off
+67
+device:['air purifier']
+location:['bedroom']
+不存在属性
+操作:turn on
+68
+device:['flower monitor']
+location:['balcony']
+不存在属性
+操作:turn on
+69
+device:['water pump']
+location:['balcony']
+不存在属性
+操作:turn off
+70
+device:['air conditioner']
+location:['balcony']
+不存在属性
+操作:reduce
+71
+不存在设备
+不存在地点
+不存在属性
+不存在操作
+1
+1
+device:['light']
+location:['sitting room']
+不存在属性
+操作:turn off
+2
+device:['light']
+location:['bedroom']
+不存在属性
+操作:turn off
+3
+device:['light']
+location:['balcony']
+不存在属性
+操作:turn off
+4
+device:['air conditioner']
+不存在地点
+不存在属性
+操作:turn up
+5
+device:['air conditioner']
+location:['bedroom']
+不存在属性
+操作:turn up
+6
+不存在设备
+不存在地点
+不存在属性
+操作:turn up
+7
+device:['light']
+location:['bedroom']
+attribute:['brightness']
+不存在操作
+8
+device:['light']
+location:['bedroom']
+attribute:['brightness']
+不存在操作
+9
+device:['light']
+location:['bedroom']
+attribute:['brightness']
+操作:increse
+10
+device:['air conditioner']
+location:['balcony']
+attribute:['temperature']
+操作:reduce
+11
+device:['light']
+location:['balcony']
+不存在属性
+操作:turn on
+12
+device:['water pump']
+location:['balcony']
+attribute:['humidity']
+操作:increase
+13
+device:['light']
+location:['sitting room']
+attribute:['brightness']
+操作:reduce
+14
+不存在设备
+location:['bedroom']
+不存在属性
+操作:reduce
+15
+device:['air conditioner']
+location:['sitting room']
+不存在属性
+操作:turn down
+16
+device:['light']
+location:['sitting room']
+不存在属性
+操作:turn off
+17
+device:['light']
+location:['bedroom']
+attribute:['brightness']
+操作:increase
+18
+device:['light']
+location:['bedroom']
+不存在属性
+操作:turn on
+19
+device:['air conditioner']
+location:['balcony']
+不存在属性
+操作:turn off
+20
+device:['air conditioner']
+location:['balcony']
+不存在属性
+操作:turn up
+21
+device:['flower monitor']
+location:['balcony']
+不存在属性
+操作:turn off
+22
+device:['light']
+location:['sitting room']
+attribute:['brightness']
+操作:increase
+23
+device:['light']
+location:['sitting room']
+attribute:['brightness']
+操作:reduce
+24
+不存在设备
+location:['balcony']
+attribute:['humidity']
+操作:increase
+25
+device:['air conditioner']
+location:['bedroom']
+不存在属性
+操作:turn up
+26
+device:['light']
+location:['bedroom', 'sitting room']
+不存在属性
+操作:turn on
+27
+device:['light']
+location:['bedroom']
+attribute:['brightness']
+操作:increase
+28
+device:['air conditioner']
+location:['bedroom']
+不存在属性
+操作:assign
+29
+device:['air purifier']
+location:['balcony']
+不存在属性
+操作:turn off
+30
+device:['light']
+location:['bedroom', 'sitting room']
+attribute:['brightness']
+操作:reduce
+31
+device:['light']
+location:['sitting room']
+不存在属性
+操作:turn on
+32
+不存在设备
+location:['sitting room']
+attribute:['brightness']
+操作:increase
+33
+device:['air purifier']
+location:['bedroom']
+不存在属性
+操作:turn on
+34
+不存在设备
+location:['bedroom']
+不存在属性
+操作:reduce
+35
+device:['flower monitor']
+location:['balcony']
+不存在属性
+操作:turn on
+36
+device:['water pump']
+location:['balcony']
+不存在属性
+操作:turn off
+37
+device:['air conditioner']
+location:['sitting room']
+不存在属性
+操作:turn off
+38
+device:['air conditioner']
+location:['bedroom']
+不存在属性
+不存在操作
+39
+不存在设备
+location:['bedroom']
+不存在属性
+操作:turn down
+40
+不存在设备
+不存在地点
+不存在属性
+操作:turn up
+41
+不存在设备
+不存在地点
+attribute:['humidity']
+操作:increase
+42
+不存在设备
+location:['bedroom']
+attribute:['brightness']
+操作:reduce
+43
+不存在设备
+location:['sitting room']
+attribute:['temperature']
+不存在操作
+44
+不存在设备
+不存在地点
+不存在属性
+操作:reduce
+45
+device:['water pump']
+不存在地点
+不存在属性
+不存在操作
+46
+不存在设备
+location:['balcony']
+attribute:['brightness']
+不存在操作
+47
+不存在设备
+不存在地点
+不存在属性
+操作:turn on
+48
+device:['light']
+不存在地点
+不存在属性
+操作:switch off
+49
+不存在设备
+不存在地点
+不存在属性
+操作:raise
+50
+device:['air conditioner']
+不存在地点
+不存在属性
+操作:turn on
+51
+device:['air conditioner']
+location:['sitting room']
+不存在属性
+操作:turn off
+52
+不存在设备
+location:['sitting room']
+attribute:['temperature']
+不存在操作
+53
+device:['light']
+location:['bedroom', 'bedroom']
+不存在属性
+操作:turn on
+54
+device:['light']
+location:['bedroom', 'bedroom']
+不存在属性
+操作:turn off
+55
+不存在设备
+location:['bedroom']
+attribute:['humidity']
+操作:monitor
+56
+不存在设备
+location:['sitting room']
+attribute:['humidity']
+操作:reduce
+57
+不存在设备
+location:['bedroom']
+attribute:['humidity']
+操作:increase
+58
+device:['water pump']
+location:['balcony']
+不存在属性
+操作:turn off
+59
+device:['water pump']
+location:['balcony']
+不存在属性
+操作:turn on
+60
+不存在设备
+location:['bedroom']
+不存在属性
+操作:purify
+61
+device:['light']
+location:['bedroom']
+不存在属性
+操作:turn off
+62
+device:['water pump']
+location:['balcony']
+attribute:['humidity']
+操作:reduce
+63
+device:['light', 'light']
+不存在地点
+attribute:['brightness']
+操作:assign
+64
+不存在设备
+location:['sitting room']
+不存在属性
+操作:reduce
+65
+device:['air conditioner']
+location:['sitting room']
+不存在属性
+操作:increase
+66
+device:['light']
+location:['bedroom']
+不存在属性
+操作:turn off
+67
+device:['air purifier']
+location:['bedroom']
+不存在属性
+操作:turn on
+68
+device:['flower monitor']
+location:['balcony']
+不存在属性
+操作:turn on
+69
+device:['water pump']
+location:['balcony']
+不存在属性
+操作:turn off
+70
+device:['air conditioner']
+location:['balcony']
+不存在属性
+操作:reduce
+71
+不存在设备
+不存在地点
+不存在属性
+不存在操作

@@ -1,0 +1,5 @@
+ turn the temperature of the air conditioner in the sitting room to x 
+ turn on the air conditioner 
+ turn off the smart brightness 
+ increase the brightness of sitting room 
+ open the air purifier in the sitting room 

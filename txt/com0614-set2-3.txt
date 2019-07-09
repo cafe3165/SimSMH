@@ -1,0 +1,21 @@
+what is the temperature of the air conditioner in the sitting room ?
+what is the pm2.5 of the air purifier ? 0.9865
+what is the status of the air conditioner ? 0.9886
+what is the brightness in the sitting room ? 0.9895
+what is the temperature of the air conditioner ? 0.9936
+what is the temperature in the sitting room ? 0.9941
+
+what is the brightness in the sitting room ?
+what is the status of the smart light ? 0.9837
+what is the brightness of the smart light ? 0.9861
+what is the pm2.5 in the sitting room ? 0.9941
+what is the temperature in the sitting room ? 0.9957
+what is the brightness in the sitting room ? 0.9999
+
+what is the pm2.5 in the sitting room ?
+what is the status of the smart light ? 0.9826
+what is the pm2.5 of the pm2.5 monitor ? 0.9836
+what is the brightness in the sitting room ? 0.9941
+what is the temperature in the sitting room ? 0.9944
+what is the pm2.5 in the sitting room ? 0.9999
+

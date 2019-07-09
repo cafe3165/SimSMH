@@ -1,0 +1,5 @@
+if temperature of sitting room is higher than 25 degrees 
+if temperature of sitting room is below 18 degrees 
+if the light of sitting room is dim 
+if indoor air quality of the sitting room is bad 
+if the room is well lighted 

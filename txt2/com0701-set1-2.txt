@@ -1,0 +1,413 @@
+1. monitor the temperature in the sitting room .
+turn on the pm2.5 monitor in the sitting room . 0.9908
+monitor the pm2.5 of sitting room . 0.9919
+turn the temperature of the air conditioner in the sitting room to x . 0.9924
+set the temperature of the air conditioner in the sitting room to x . 0.9926
+monitor the temperature of sitting room . 0.9975
+
+2. increase the temperature and brightness of sitting room .
+monitor the brightness of sitting room . 0.9858
+reduce the temperature of sitting room . 0.9917
+reduce the brightness of sitting room . 0.9948
+increase the temperature of sitting room . 0.9948
+increase the brightness of sitting room . 0.9954
+
+3. reduce the temperature in sitting room .
+assign the temperature of sitting room . 0.9890
+reduce the pm2.5 of sitting room . 0.9891
+monitor the temperature of sitting room . 0.9922
+increase the temperature of sitting room . 0.9961
+reduce the temperature of sitting room . 0.9985
+
+4. assign the temperature of the sitting room .
+set the temperature of sitting room to x . 0.9902
+assign the brightness of sitting room . 0.9903
+increase the temperature of sitting room . 0.9904
+monitor the temperature of sitting room . 0.9933
+assign the temperature of sitting room . 0.9982
+
+5. monitor the brightness of the sitting room .
+reduce the brightness of sitting room . 0.9902
+assign the brightness of sitting room . 0.9903
+monitor the temperature of sitting room . 0.9905
+monitor the pm2.5 of sitting room . 0.9910
+monitor the brightness of sitting room . 0.9985
+
+6. turn down the brightness of sitting room .
+set the brightness of sitting room to x . 0.9881
+monitor the brightness of sitting room . 0.9886
+increase the brightness of sitting room . 0.9889
+turn the brightness of the smart light in the sitting room to x . 0.9890
+reduce the brightness of sitting room . 0.9903
+
+7. assign the brightness of sitting room .
+increase the brightness of sitting room . 0.9887
+reduce the brightness of sitting room . 0.9891
+assign the temperature of sitting room . 0.9904
+monitor the brightness of sitting room . 0.9920
+assign the brightness of sitting room . 0.9999
+
+8. reduce the brightness of sitting room .
+monitor the brightness of sitting room . 0.9917
+increase the temperature of sitting room . 0.9921
+reduce the temperature of sitting room . 0.9922
+increase the brightness of sitting room . 0.9970
+reduce the brightness of sitting room . 0.9999
+
+9. monitor the Particulate Matter2.5 of drawing room .
+reduce the pm2.5 of sitting room . 0.9847
+turn on the pm2.5 monitor in the sitting room . 0.9886
+set the pm2.5 of the pm2.5 monitor in the sitting room to x . 0.9891
+turn the pm2.5 of the pm2.5 monitor in the sitting room to x . 0.9894
+monitor the pm2.5 of sitting room . 0.9894
+
+10. improve the air quality in the living room .
+turn the pm2.5 of the pm2.5 monitor in the sitting room to x . 0.9819
+set the temperature of the air conditioner in the sitting room to x . 0.9819
+set the pm2.5 of the air purifier in the sitting room to x . 0.9820
+turn the temperature of the air conditioner in the sitting room to x . 0.9821
+turn the pm2.5 of the air purifier in the sitting room to x . 0.9827
+
+11. set the temperature of sitting room to 15 degrees centigrade .
+monitor the temperature of sitting room . 0.9750
+assign the temperature of sitting room . 0.9759
+reduce the temperature of sitting room . 0.9789
+increase the temperature of sitting room . 0.9799
+set the temperature of sitting room to x . 0.9800
+
+12. set the brightness of sitting room to 30.
+set the brightness of the smart light in the sitting room to x . 0.9905
+increase the brightness of sitting room . 0.9906
+reduce the brightness of sitting room . 0.9913
+monitor the brightness of sitting room . 0.9927
+set the brightness of sitting room to x . 0.9933
+
+13. set the pm2.5 of sitting room to 4.
+open the pm2.5 monitor in the sitting room . 0.9907
+monitor the pm2.5 of sitting room . 0.9920
+turn off the pm2.5 monitor in the sitting room . 0.9921
+set the pm2.5 of sitting room to x . 0.9921
+turn on the pm2.5 monitor in the sitting room . 0.9927
+
+14. turn on the air conditioner and air purifier in the sitting room .
+shut down the air purifier in the sitting room . 0.9935
+turn off the air conditioner in the sitting room . 0.9941
+turn on the air conditioner in the sitting room . 0.9948
+turn off the air purifier in the sitting room . 0.9949
+turn on the air purifier in the sitting room . 0.9954
+
+15. turn up the air-conditioning of living room .
+turn the pm2.5 of the pm2.5 monitor in the sitting room to x . 0.9808
+shut down the smart light in the sitting room . 0.9809
+turn on the smart light in the sitting room . 0.9815
+monitor the pm2.5 of sitting room . 0.9824
+reduce the pm2.5 of sitting room . 0.9882
+
+16. open the air conditioner in the sitting room .
+shut down the air conditioner in the sitting room . 0.9942
+turn off the air conditioner in the sitting room . 0.9947
+turn on the air conditioner in the sitting room . 0.9968
+open the air purifier in the sitting room . 0.9971
+open the air conditioner in the sitting room . 0.9999
+
+17. shut down the air conditioner in the sitting room .
+open the air conditioner in the sitting room . 0.9942
+turn on the air conditioner in the sitting room . 0.9959
+turn off the air conditioner in the sitting room . 0.9966
+shut down the air purifier in the sitting room . 0.9977
+shut down the air conditioner in the sitting room . 0.9999
+
+18. set the temperature of the air conditioner in the sitting room to 25 .
+turn on the air conditioner in the sitting room . 0.9925
+turn the pm2.5 of the air purifier in the sitting room to x . 0.9940
+set the pm2.5 of the air purifier in the sitting room to x . 0.9943
+turn the temperature of the air conditioner in the sitting room to x . 0.9973
+set the temperature of the air conditioner in the sitting room to x . 0.9980
+
+19. turn the temperature of the air conditioner in the sitting room to 14 .
+set the pm2.5 of the air purifier in the sitting room to x . 0.9937
+turn on the air conditioner in the sitting room . 0.9940
+turn the pm2.5 of the air purifier in the sitting room to x . 0.9946
+set the temperature of the air conditioner in the sitting room to x . 0.9975
+turn the temperature of the air conditioner in the sitting room to x . 0.9979
+
+20. turn up the light of the living room.
+set the pm2.5 of the pm2.5 monitor in the sitting room to x . 0.9856
+turn the pm2.5 of the air purifier in the sitting room to x . 0.9860
+set the brightness of the smart light in the sitting room to x . 0.9866
+turn the brightness of the smart light in the sitting room to x . 0.9878
+turn the pm2.5 of the pm2.5 monitor in the sitting room to x . 0.9883
+
+21. turn the smart light of the sitting room on.
+shut down the smart light in the sitting room . 0.9908
+turn the brightness of the smart light in the sitting room to x . 0.9910
+open the smart light in the sitting room . 0.9933
+turn off the smart light in the sitting room . 0.9955
+turn on the smart light in the sitting room . 0.9963
+
+22. open the smart light in the sitting room .
+open the pm2.5 monitor in the sitting room . 0.9918
+shut down the smart light in the sitting room . 0.9941
+turn off the smart light in the sitting room . 0.9949
+turn on the smart light in the sitting room . 0.9971
+open the smart light in the sitting room . 0.9999
+
+23. turn down the light of sitting room .
+open the smart light in the sitting room . 0.9906
+turn off the pm2.5 monitor in the sitting room . 0.9922
+shut down the smart light in the sitting room . 0.9942
+turn on the smart light in the sitting room . 0.9948
+turn off the smart light in the sitting room . 0.9957
+
+24. shut down the smart light in the sitting room .
+turn off the pm2.5 monitor in the sitting room . 0.9939
+open the smart light in the sitting room . 0.9941
+turn on the smart light in the sitting room . 0.9962
+turn off the smart light in the sitting room . 0.9968
+shut down the smart light in the sitting room . 0.9999
+
+25. set the brightness of the smart light in the sitting room to 80 .
+turn the pm2.5 of the pm2.5 monitor in the sitting room to x . 0.9930
+turn the pm2.5 of the air purifier in the sitting room to x . 0.9935
+set the pm2.5 of the air purifier in the sitting room to x . 0.9935
+turn the brightness of the smart light in the sitting room to x . 0.9976
+set the brightness of the smart light in the sitting room to x . 0.9979
+
+26. turn the brightness of the smart light in the sitting room to 78 .
+turn the temperature of the air conditioner in the sitting room to x . 0.9925
+turn the pm2.5 of the air purifier in the sitting room to x . 0.9933
+turn on the smart light in the sitting room . 0.9939
+set the brightness of the smart light in the sitting room to x . 0.9971
+turn the brightness of the smart light in the sitting room to x . 0.9979
+
+27. turn on the air detector in the sitting room .
+turn on the pm2.5 monitor in the sitting room . 0.9931
+turn off the air conditioner in the sitting room . 0.9933
+turn off the air purifier in the sitting room . 0.9939
+turn on the air conditioner in the sitting room . 0.9957
+turn on the air purifier in the sitting room . 0.9962
+
+28. turn off the pm2.5 monitor in the sitting room .
+turn off the smart light in the sitting room . 0.9937
+shut down the smart light in the sitting room . 0.9939
+shut down the pm2.5 monitor in the sitting room . 0.9961
+turn on the pm2.5 monitor in the sitting room . 0.9981
+turn off the pm2.5 monitor in the sitting room . 0.9999
+
+29. open the Particulate Matter2.5 monitor in the sitting room .
+shut down the pm2.5 monitor in the sitting room . 0.9931
+monitor the pm2.5 of sitting room . 0.9933
+turn off the pm2.5 monitor in the sitting room . 0.9935
+turn on the pm2.5 monitor in the sitting room . 0.9963
+open the pm2.5 monitor in the sitting room . 0.9999
+
+30. shut down the air detector in the sitting room .
+shut down the pm2.5 monitor in the sitting room . 0.9929
+turn off the air conditioner in the sitting room . 0.9933
+turn on the air conditioner in the sitting room . 0.9935
+shut down the air conditioner in the sitting room . 0.9956
+shut down the air purifier in the sitting room . 0.9961
+
+31. set the pm2.5 of the pm2.5 monitor in the sitting room to 14 .
+set the pm2.5 of the air purifier in the sitting room to x . 0.9914
+open the pm2.5 monitor in the sitting room . 0.9918
+turn on the pm2.5 monitor in the sitting room . 0.9941
+turn the pm2.5 of the pm2.5 monitor in the sitting room to x . 0.9963
+set the pm2.5 of the pm2.5 monitor in the sitting room to x . 0.9975
+
+32. turn the pm2.5 of the pm2.5 monitor in the sitting room to 12 .
+set the pm2.5 of the air purifier in the sitting room to x . 0.9922
+turn off the pm2.5 monitor in the sitting room . 0.9935
+turn on the pm2.5 monitor in the sitting room . 0.9960
+set the pm2.5 of the pm2.5 monitor in the sitting room to x . 0.9970
+turn the pm2.5 of the pm2.5 monitor in the sitting room to x . 0.9976
+
+33. turn on the air cleaner in the sitting room .
+turn on the smart light in the sitting room . 0.9948
+turn off the air purifier in the sitting room . 0.9951
+turn off the air conditioner in the sitting room . 0.9957
+turn on the air purifier in the sitting room . 0.9969
+turn on the air conditioner in the sitting room . 0.9977
+
+34. turn off the air purifier in the sitting room .
+turn on the air conditioner in the sitting room . 0.9962
+shut down the air purifier in the sitting room . 0.9964
+turn off the air conditioner in the sitting room . 0.9977
+turn on the air purifier in the sitting room . 0.9982
+turn off the air purifier in the sitting room . 0.9999
+
+35. open the air purifier in the sitting room .
+turn off the air purifier in the sitting room . 0.9944
+turn on the air conditioner in the sitting room . 0.9950
+turn on the air purifier in the sitting room . 0.9967
+open the air conditioner in the sitting room . 0.9971
+open the air purifier in the sitting room . 0.9999
+
+36. shut down both air purifier and air conditioner in the sitting room .
+turn on the air conditioner in the sitting room . 0.9906
+turn off the air purifier in the sitting room . 0.9909
+turn off the air conditioner in the sitting room . 0.9921
+shut down the air conditioner in the sitting room . 0.9932
+shut down the air purifier in the sitting room . 0.9938
+
+37. set the pm2.5 of the air purifier in the sitting room to 11 .
+turn the pm2.5 of the pm2.5 monitor in the sitting room to x . 0.9927
+set the temperature of the air conditioner in the sitting room to x . 0.9930
+turn on the air purifier in the sitting room . 0.9935
+turn the pm2.5 of the air purifier in the sitting room to x . 0.9967
+set the pm2.5 of the air purifier in the sitting room to x . 0.9977
+
+38. turn the pm2.5 of the air purifier in the sitting room to 12.
+turn on the air conditioner in the sitting room . 0.9940
+turn off the air purifier in the sitting room . 0.9945
+set the pm2.5 of the air purifier in the sitting room to x . 0.9949
+turn the pm2.5 of the air purifier in the sitting room to x . 0.9965
+turn on the air purifier in the sitting room . 0.9971
+
+39. turn up the air-conditioning
+turn the temperature of the air conditioner in the sitting room to x . 0.9716
+turn on the air conditioner in the sitting room . 0.9743
+shut down the smart light in the sitting room . 0.9744
+shut down the air conditioner in the sitting room . 0.9751
+turn off the air conditioner in the sitting room . 0.9752
+
+40. increase the temperature of sitting room
+monitor the temperature of sitting room . 0.9898
+reduce the brightness of sitting room . 0.9903
+increase the brightness of sitting room . 0.9905
+reduce the temperature of sitting room . 0.9959
+increase the temperature of sitting room . 0.9986
+
+41. set the temperature of sitting room to 20 degrees
+assign the temperature of sitting room . 0.9838
+monitor the temperature of sitting room . 0.9840
+reduce the temperature of sitting room . 0.9863
+increase the temperature of sitting room . 0.9869
+set the temperature of sitting room to x . 0.9888
+
+42. set the temperature of living room to 19 degrees
+turn the temperature of the air conditioner in the sitting room to x . 0.9757
+set the temperature of the air conditioner in the sitting room to x . 0.9773
+reduce the temperature of sitting room . 0.9794
+increase the temperature of sitting room . 0.9813
+set the temperature of sitting room to x . 0.9835
+
+43. shut down the air conditioner in the sitting room
+open the air conditioner in the sitting room . 0.9921
+turn on the air conditioner in the sitting room . 0.9932
+turn off the air conditioner in the sitting room . 0.9947
+shut down the air purifier in the sitting room . 0.9967
+shut down the air conditioner in the sitting room . 0.9991
+
+44. turn down the temperature
+monitor the temperature of sitting room . 0.9727
+set the temperature of the air conditioner in the sitting room to x . 0.9743
+increase the temperature of sitting room . 0.9766
+turn the temperature of the air conditioner in the sitting room to x . 0.9768
+reduce the temperature of sitting room . 0.9782
+
+45. turn off the air conditioner
+turn on the air conditioner in the sitting room . 0.9728
+shut down the air purifier in the sitting room . 0.9760
+shut down the air conditioner in the sitting room . 0.9764
+turn off the air purifier in the sitting room . 0.9779
+turn off the air conditioner in the sitting room . 0.9798
+
+46. turn off the light
+turn on the air purifier in the sitting room . 0.9809
+shut down the smart light in the sitting room . 0.9809
+turn off the air conditioner in the sitting room . 0.9835
+turn off the air purifier in the sitting room . 0.9857
+turn off the smart light in the sitting room . 0.9862
+
+47. turn off the smart light
+turn off the air conditioner in the sitting room . 0.9770
+turn off the air purifier in the sitting room . 0.9771
+shut down the smart light in the sitting room . 0.9795
+turn on the smart light in the sitting room . 0.9810
+turn off the smart light in the sitting room . 0.9865
+
+48. increase the brightness of sitting room
+assign the brightness of sitting room . 0.9870
+monitor the brightness of sitting room . 0.9879
+increase the temperature of sitting room . 0.9881
+reduce the brightness of sitting room . 0.9946
+increase the brightness of sitting room . 0.9982
+
+49. reduce the brightness
+monitor the brightness of sitting room . 0.9249
+reduce the temperature of sitting room . 0.9285
+increase the temperature of sitting room . 0.9286
+increase the brightness of sitting room . 0.9432
+reduce the brightness of sitting room . 0.9458
+
+50. turn off the smart light
+turn off the air conditioner in the sitting room . 0.9770
+turn off the air purifier in the sitting room . 0.9771
+shut down the smart light in the sitting room . 0.9795
+turn on the smart light in the sitting room . 0.9810
+turn off the smart light in the sitting room . 0.9865
+
+51. turn off the smart light of sitting room
+turn off the air conditioner in the sitting room . 0.9885
+open the smart light in the sitting room . 0.9895
+shut down the smart light in the sitting room . 0.9921
+turn on the smart light in the sitting room . 0.9937
+turn off the smart light in the sitting room . 0.9970
+
+52. set the brightness of sitting room to 25
+turn the brightness of the smart light in the sitting room to x . 0.9894
+set the pm2.5 of sitting room to x . 0.9903
+set the brightness of the smart light in the sitting room to x . 0.9909
+set the temperature of sitting room to x . 0.9913
+set the brightness of sitting room to x . 0.9945
+
+53. turn off the air purifier
+turn on the air conditioner in the sitting room . 0.9605
+turn off the air conditioner in the sitting room . 0.9674
+turn on the air purifier in the sitting room . 0.9674
+shut down the air purifier in the sitting room . 0.9692
+turn off the air purifier in the sitting room . 0.9747
+
+54. turn off the air purifier
+turn on the air conditioner in the sitting room . 0.9605
+turn off the air conditioner in the sitting room . 0.9674
+turn on the air purifier in the sitting room . 0.9674
+shut down the air purifier in the sitting room . 0.9692
+turn off the air purifier in the sitting room . 0.9747
+
+55. turn off the air purifier
+turn on the air conditioner in the sitting room . 0.9605
+turn off the air conditioner in the sitting room . 0.9674
+turn on the air purifier in the sitting room . 0.9674
+shut down the air purifier in the sitting room . 0.9692
+turn off the air purifier in the sitting room . 0.9747
+
+56. turn on the air purifier
+turn off the air conditioner in the sitting room . 0.9707
+open the air purifier in the sitting room . 0.9714
+shut down the air purifier in the sitting room . 0.9750
+turn on the air purifier in the sitting room . 0.9783
+turn off the air purifier in the sitting room . 0.9785
+
+57. reduce the pm25 of the living room
+increase the temperature of sitting room . 0.9798
+reduce the brightness of sitting room . 0.9800
+set the pm2.5 of the pm2.5 monitor in the sitting room to x . 0.9814
+turn the pm2.5 of the pm2.5 monitor in the sitting room to x . 0.9833
+reduce the pm2.5 of sitting room . 0.9899
+
+58. turn on the air cleaner of the sitting room
+turn on the smart light in the sitting room . 0.9929
+turn off the air conditioner in the sitting room . 0.9944
+turn off the air purifier in the sitting room . 0.9946
+turn on the air conditioner in the sitting room . 0.9961
+turn on the air purifier in the sitting room . 0.9961
+
+59. open the air purifier
+open the air conditioner in the sitting room . 0.9537
+turn off the air purifier in the sitting room . 0.9553
+turn on the air purifier in the sitting room . 0.9558
+shut down the air purifier in the sitting room . 0.9560
+open the air purifier in the sitting room . 0.9634
+

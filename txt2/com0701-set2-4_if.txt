@@ -1,0 +1,147 @@
+1. if the temperature of sitting room is below x
+if the brightness in the sitting room is lower than x 0.9910
+if the temperature in the sitting room is above x 0.9919
+if the temperature in the sitting room is below x 0.9927
+if the temperature in the sitting room is higher than x 0.9945
+if the temperature in the sitting room is lower than x 0.9947
+
+2. if the temperature in the sitting room is less than x
+if the brightness in the sitting room is higher than x 0.9926
+if the temperature in the sitting room is more than x 0.9944
+if the temperature in the sitting room is less than x 0.9952
+if the temperature in the sitting room is lower than x 0.9957
+if the temperature in the sitting room is higher than x 0.9962
+
+3. if the temperature in the drawing room is lower than x
+if the temperature in the sitting room is less than x 0.9844
+if the brightness in the sitting room is lower than x 0.9857
+if the brightness in the sitting room is higher than x 0.9862
+if the temperature in the sitting room is lower than x 0.9876
+if the temperature in the sitting room is higher than x 0.9884
+
+4. if the living room temperature is above x
+if the temperature in the sitting room is above x 0.9917
+if the temperature in the sitting room is less than x 0.9918
+if the temperature in the sitting room is below x 0.9920
+if the temperature in the sitting room is lower than x 0.9933
+if the temperature in the sitting room is higher than x 0.9936
+
+5. if the temperature in the sitting room is higher than x
+if the brightness in the sitting room is lower than x 0.9917
+if the temperature in the sitting room is more than x 0.9933
+if the temperature in the sitting room is less than x 0.9935
+if the temperature in the sitting room is lower than x 0.9958
+if the temperature in the sitting room is higher than x 0.9961
+
+6. if the temperature in the sitting room is more than x
+if the pm2.5 in the sitting room is higher than x 0.9927
+if the temperature in the sitting room is less than x 0.9954
+if the temperature in the sitting room is lower than x 0.9954
+if the temperature in the sitting room is more than x 0.9956
+if the temperature in the sitting room is higher than x 0.9957
+
+7. if the temperature in the sitting room is between x and y
+if the temperature in the sitting room is more than x 0.9943
+if the temperature in the sitting room is higher than x 0.9944
+if the temperature in the sitting room is lower than x 0.9951
+if the temperature in the sitting room is below x 0.9955
+if the temperature in the sitting room is above x 0.9957
+
+8. if the luminance in the sitting room is below x
+if the brightness in the sitting room is lower than x 0.9906
+if the pm2.5 in the sitting room is higher than x 0.9919
+if the pm2.5 in the sitting room is below x 0.9923
+if the pm2.5 in the sitting room is lower than x 0.9924
+if the pm2.5 in the sitting room is above x 0.9927
+
+9. if the brightness in the sitting room is less than x
+if the brightness in the sitting room is more than x 0.9924
+if the pm2.5 in the sitting room is lower than x 0.9925
+if the pm2.5 in the sitting room is more than x 0.9927
+if the pm2.5 in the sitting room is higher than x 0.9927
+if the pm2.5 in the sitting room is less than x 0.9932
+
+10. if the brightness in the sitting room is lower than x
+if the temperature in the sitting room is higher than x 0.9923
+if the brightness in the sitting room is more than x 0.9923
+if the brightness in the sitting room is less than x 0.9927
+if the brightness in the sitting room is higher than x 0.9957
+if the brightness in the sitting room is lower than x 0.9961
+
+11. if the luminance in the living room is above x
+if the brightness in the sitting room is more than x 0.9894
+if the brightness in the sitting room is above x 0.9899
+if the brightness in the sitting room is below x 0.9899
+if the brightness in the sitting room is lower than x 0.9914
+if the brightness in the sitting room is higher than x 0.9915
+
+12. if the living room is brighter than x
+if the temperature in the sitting room is more than x 0.9893
+if the brightness in the sitting room is lower than x 0.9905
+if the brightness in the sitting room is higher than x 0.9920
+if the brightness in the sitting room is less than x 0.9921
+if the brightness in the sitting room is more than x 0.9922
+
+13. if the brightness in the sitting room is more than x
+if the brightness in the sitting room is above x 0.9927
+if the brightness in the sitting room is lower than x 0.9948
+if the brightness in the sitting room is higher than x 0.9948
+if the brightness in the sitting room is less than x 0.9954
+if the brightness in the sitting room is more than x 0.9958
+
+14. if the brightness in the sitting room is between x and y
+if the brightness in the sitting room is higher than x 0.9937
+if the brightness in the sitting room is more than x 0.9937
+if the brightness in the sitting room is lower than x 0.9943
+if the brightness in the sitting room is below x 0.9949
+if the brightness in the sitting room is above x 0.9953
+
+15. if the pm25 in the sitting room is below x
+if the pm2.5 in the sitting room is more than x 0.9885
+if the pm2.5 in the sitting room is higher than x 0.9897
+if the pm2.5 in the sitting room is lower than x 0.9913
+if the pm2.5 in the sitting room is above x 0.9921
+if the pm2.5 in the sitting room is below x 0.9923
+
+16. if the pm25 in the sitting room is less than x
+if the pm2.5 in the sitting room is above x 0.9911
+if the pm2.5 in the sitting room is less than x 0.9927
+if the pm2.5 in the sitting room is higher than x 0.9927
+if the pm2.5 in the sitting room is lower than x 0.9932
+if the pm2.5 in the sitting room is more than x 0.9935
+
+17. if the pm25 in the drawing room is lower than x
+if the pm2.5 in the sitting room is below x 0.9847
+if the pm2.5 in the sitting room is less than x 0.9861
+if the pm2.5 in the sitting room is more than x 0.9874
+if the pm2.5 in the sitting room is higher than x 0.9889
+if the pm2.5 in the sitting room is lower than x 0.9891
+
+18. if the pm25 in the sitting room is above x
+if the pm2.5 in the sitting room is higher than x 0.9860
+if the temperature in the sitting room is above x 0.9861
+if the pm2.5 in the sitting room is lower than x 0.9878
+if the pm2.5 in the sitting room is below x 0.9880
+if the pm2.5 in the sitting room is above x 0.9897
+
+19. if the pm25 in the sitting room is higher than x
+if the pm2.5 in the sitting room is less than x 0.9890
+if the pm2.5 in the sitting room is more than x 0.9892
+if the pm2.5 in the sitting room is above x 0.9892
+if the pm2.5 in the sitting room is higher than x 0.9910
+if the pm2.5 in the sitting room is lower than x 0.9913
+
+20. if the pm25 in the sitting room is more than x
+if the pm2.5 in the sitting room is above x 0.9891
+if the pm2.5 in the sitting room is higher than x 0.9900
+if the pm2.5 in the sitting room is less than x 0.9903
+if the pm2.5 in the sitting room is lower than x 0.9903
+if the pm2.5 in the sitting room is more than x 0.9910
+
+21. if the pm25 in the sitting room is between x and y
+if the pm2.5 in the sitting room is higher than x 0.9885
+if the pm2.5 in the sitting room is more than x 0.9890
+if the pm2.5 in the sitting room is below x 0.9891
+if the pm2.5 in the sitting room is lower than x 0.9896
+if the pm2.5 in the sitting room is above x 0.9902
+

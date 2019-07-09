@@ -1,0 +1,154 @@
+turn off the light in sitting room
+turn off the smart light 0.9783574006079365
+turn off the air purifier 0.9785103894389666
+what is the status of the air conditioner 0.9793745478973968
+is the air purifier on 0.9803763423746568
+is the pm2.5 monitor off 0.9814380968743281
+
+turn up the air conditioner in sitting room
+shut down the smart light 0.9751919378087587
+what is the status of the air conditioner 0.9754718367409283
+open the air conditioner 0.975655818813877
+turn off the air conditioner 0.9791070088924674
+turn on the air conditioner 0.9816513262258113
+
+reduce the brightness of the light in the sitting room
+what is the status of the air conditioner 0.9841959351572764
+turn the humidity of the flower monitor to x 0.9847044957430584
+is the pm2.5 monitor off 0.9851389676216549
+what is the status of the air purifier 0.9875478048882042
+shut down the water pump 0.98822837129751
+
+turn down the air conditioner of the sitting room to 10 degrees
+is the pm2.5 monitor off 0.9773428248502405
+set the temperature of the air conditioner to x 0.9779513717947085
+turn on the water pump 0.9780364132261881
+what is the status of the air conditioner 0.9785448389846283
+turn the temperature of the air conditioner to x 0.979550365291525
+
+turn off the light in the sitting room
+turn off the air purifier 0.9814008918914858
+what is the status of the air purifier 0.9823710333534909
+turn on the air purifier 0.984172826966665
+is the pm2.5 monitor off 0.984681202410985
+is the air purifier on 0.9853691275976018
+
+increase the brightness of the light in the sitting room
+open the water pump 0.980918063697963
+is the pm2.5 monitor off 0.9835878489051797
+turn the humidity of the flower monitor to x 0.9843495712656649
+what is the status of the air purifier 0.9874773318831119
+shut down the water pump 0.9900612556888457
+
+reduce the brightness of the light in the sitting room
+what is the status of the air conditioner 0.9841959351572764
+turn the humidity of the flower monitor to x 0.9847044957430584
+is the pm2.5 monitor off 0.9851389676216549
+what is the status of the air purifier 0.9875478048882042
+shut down the water pump 0.98822837129751
+
+turn on the light in the sitting room
+turn the humidity of the water pump to x 0.9845259579850503
+turn on the air purifier 0.9862582236564752
+what is the status of the air purifier 0.9863440533332721
+is the pm2.5 monitor off 0.9884218031678531
+is the air purifier on 0.9890717957179295
+
+increase the brightness in the sitting room
+is the pm2.5 monitor off 0.9838447604533951
+open the water pump 0.9851855704800963
+what is the status of the air purifier 0.9878485756023221
+turn the humidity of the flower monitor to x 0.9893164706611318
+shut down the water pump 0.9955519772234698
+
+turn off the air conditioner in the sitting room
+shut down the smart light 0.976580336114142
+turn off the air conditioner 0.9769040930002009
+open the air conditioner 0.9813084251027517
+turn off the air conditioner 0.9825164721994768
+turn on the air conditioner 0.9845966700429976
+
+turn up the air conditioning in the living room by three degrees
+turn the humidity of the flower monitor to x 0.9734971737342135
+turn the temperature of the air conditioner to x 0.974665491463804
+set the temperature of the air conditioner to x 0.974934974510096
+what is the status of the air conditioner 0.9766355472585353
+is the pm2.5 monitor off 0.976879297648687
+
+what 's the temperature of sitting room
+turn the humidity of the flower monitor to x 0.9823982372086437
+what is the status of the air conditioner 0.9853733854423279
+is the air purifier on 0.9905684094033795
+what is the status of the air purifier 0.9928627826447491
+is the pm2.5 monitor off 0.996191756254168
+
+reduce PM2.5 now
+turn the temperature of the air conditioner to x 0.9197426986425599
+turn on the flower monitor 0.9197599879406877
+turn the humidity of the flower monitor to x 0.9227972142106259
+turn on the water pump 0.9297894842146058
+what is the status of the air conditioner 0.9323555625372033
+
+turn on the air purifier
+turn the temperature of the air conditioner to x 0.9706006315905944
+turn off the air conditioner 0.9827923020431402
+open the air conditioner 0.98422166204024
+turn off the air conditioner 0.984894231329512
+turn on the air conditioner 0.9900568548306714
+
+switch off the light
+turn the temperature of the air conditioner to x 0.9763601714590171
+turn off the air purifier 0.9794756934687674
+shut down the smart light 0.9798213768919435
+turn on the smart light 0.9799706548549787
+turn off the smart light 0.9854524274764788
+
+raise the temperature now
+set the temperature of the air conditioner to x 0.9686029371852487
+turn on the flower monitor 0.9712179445734148
+turn the temperature of the air conditioner to x 0.9722879927430956
+turn on the water pump 0.977904357784263
+turn the humidity of the flower monitor to x 0.9806169060488314
+
+help me turn on the air conditioner
+shut down the smart light 0.9732320047810465
+open the air conditioner 0.9739536079580617
+turn off the smart light 0.9742621955616393
+turn off the air conditioner 0.979377782670654
+turn on the air conditioner 0.982403677359178
+
+turn off the air conditioner in the sitting room
+shut down the smart light 0.976580336114142
+turn off the air conditioner 0.9769040930002009
+open the air conditioner 0.9813084251027517
+turn off the air conditioner 0.9825164721994768
+turn on the air conditioner 0.9845966700429976
+
+set the temperature of the sitting room to 28 degrees
+turn off the water pump 0.977735093845072
+set the humidity of the flower monitor to x 0.9792410338925992
+is the pm2.5 monitor off 0.9801581075516753
+turn on the water pump 0.9809078311601176
+turn the humidity of the flower monitor to x 0.9832016877831602
+
+reduce the air humidity of the sitting room
+turn the temperature of the air conditioner to x 0.9820498852622608
+what is the status of the air conditioner 0.984264773051827
+set the humidity of the flower monitor to x 0.9851017057111442
+turn the humidity of the flower monitor to x 0.9870641003996675
+turn on the water pump 0.9901009807219785
+
+reduce the PM25 of the PM25 monitor in the sitting room
+turn on the air purifier 0.9836279044473486
+is the air purifier on 0.9839741777936923
+is the pm2.5 monitor off 0.9841743267592673
+turn the humidity of the water pump to x 0.9874572681782326
+what is the status of the air conditioner 0.9894949704892937
+
+increase the air conditioner of the sitting room to 28 degrees
+what is the status of the air conditioner 0.9766249719418209
+turn on the water pump 0.9811907749279261
+set the temperature of the air conditioner to x 0.9833357279299473
+turn the humidity of the flower monitor to x 0.9835180630184005
+turn the temperature of the air conditioner to x 0.983879410111729
+

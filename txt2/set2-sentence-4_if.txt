@@ -1,0 +1,21 @@
+if the temperature of sitting room is below x
+if the temperature in the sitting room is less than x
+if the temperature in the drawing room is lower than x
+if the living room temperature is above x
+if the temperature in the sitting room is higher than x
+if the temperature in the sitting room is more than x
+if the temperature in the sitting room is between x and y
+if the luminance in the sitting room is below x
+if the brightness in the sitting room is less than x
+if the brightness in the sitting room is lower than x
+if the luminance in the living room is above x
+if the living room is brighter than x
+if the brightness in the sitting room is more than x
+if the brightness in the sitting room is between x and y
+if the pm25 in the sitting room is below x
+if the pm25 in the sitting room is less than x
+if the pm25 in the drawing room is lower than x
+if the pm25 in the sitting room is above x
+if the pm25 in the sitting room is higher than x
+if the pm25 in the sitting room is more than x
+if the pm25 in the sitting room is between x and y

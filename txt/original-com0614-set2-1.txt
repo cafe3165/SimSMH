@@ -1,0 +1,14 @@
+is the air conditioner of sitting room on ?
+is the smart light off ? 0.9780
+is the smart light on ? 0.9796
+is the air purifier on ? 0.9816
+is the air conditioner off ? 0.9854
+is the air conditioner on  ? 0.9899
+
+is the smart light on  ?
+is the air conditioner on  ? 0.9802
+is the pm2.5 monitor off ? 0.9825
+is the pm2.5 monitor on ? 0.9828
+is the smart light off ? 0.9959
+is the smart light on ? 0.9999
+

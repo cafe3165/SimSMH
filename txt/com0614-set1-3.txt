@@ -1,0 +1,7 @@
+what is the temperature of sitting room ?
+what is the brightness of the smart light ? 0.9792
+what is the temperature of the air conditioner ? 0.9817
+what is the pm2.5 in the sitting room ? 0.9906
+what is the brightness in the sitting room ? 0.9942
+what is the temperature in the sitting room ? 0.9980
+

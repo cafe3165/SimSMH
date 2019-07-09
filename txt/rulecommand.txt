@@ -1,0 +1,20 @@
+turn off the PM2.5 monitor in the sitting room .
+shut down the smart light in the sitting room .
+turn on the air conditioner in the sitting room .
+open the air purifier in the sitting room .
+set the brightness of the smart light in the sitting room to x .
+set the temperature of the air conditioner in the sitting room to x .
+turn the temperature of the air conditioner in the sitting room to x .
+reduce the temperature of the air conditioner in the sitting room .
+increase the brightness of the smart light in the sitting room .
+set the Particulate Matter 2.5 of the air purifier to x in the sitting room .
+what is the brightness in the sitting room ?
+what is the temperature of the air conditioner in the sitting room  ?
+what is the pm2.5 in the sitting room ?
+is the air conditioner of sitting room on ?
+is the smart light on  ?
+if the temperature is higher than x in the sitting room
+if the temperature is lower than x
+if the brightness is between y and x in the sitting room
+if the brightness is higher than x
+if the pm2.5 is lower than x

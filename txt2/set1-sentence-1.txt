@@ -1,0 +1,9 @@
+is the air conditioner of sitting room working now?
+is the air conditioner of sitting room cooling ?
+is the air conditioner off ?
+is the smart light on ?
+is the smart light off ?
+is the pm2.5 monitor on ?
+is the pm2.5 monitor off ?
+is the air cleaner on ?
+is the air cleaner off ?

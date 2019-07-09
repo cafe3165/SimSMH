@@ -1,0 +1,8 @@
+is the air conditioner on ?
+is air conditioner off ?
+is the smart light on ?
+is the smart light off ?
+is the pm2.5 monitor on ?
+is the pm2.5 monitor off ?
+is the air cleaner on ?
+is the air purifier off ?

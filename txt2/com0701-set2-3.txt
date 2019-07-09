@@ -1,0 +1,77 @@
+1. what is the temperature in the sitting room ?
+what is the status of the air conditioner ? 0.9807
+what is the temperature of the air conditioner ? 0.9831
+what is the pm2.5 in the sitting room ? 0.9944
+what is the brightness in the sitting room ? 0.9957
+what is the temperature in the sitting room ? 0.9999
+
+2. what is the brightness in the living room ?
+what is the status of the smart light ? 0.9866
+what is the brightness of the smart light ? 0.9875
+what is the pm2.5 in the sitting room ? 0.9890
+what is the temperature in the sitting room ? 0.9908
+what is the brightness in the sitting room ? 0.9954
+
+3. what is the pm2.5 in the sitting room ?
+what is the status of the smart light ? 0.9826
+what is the pm2.5 of the pm2.5 monitor ? 0.9836
+what is the brightness in the sitting room ? 0.9941
+what is the temperature in the sitting room ? 0.9944
+what is the pm2.5 in the sitting room ? 0.9999
+
+4. what is the status of the air conditioner ?
+what is the temperature of the air conditioner ? 0.9912
+what is the status of the smart light ? 0.9915
+what is the pm2.5 of the air purifier ? 0.9942
+what is the status of the air purifier ? 0.9971
+what is the status of the air conditioner ? 0.9999
+
+5. what is the state of the smart light ?
+what is the status of the pm2.5 monitor ? 0.9884
+what is the brightness of the smart light ? 0.9888
+what is the status of the air conditioner ? 0.9897
+what is the pm2.5 of the pm2.5 monitor ? 0.9925
+what is the status of the smart light ? 0.9963
+
+6. what is the status of the pm2.5 monitor ?
+what is the status of the air purifier ? 0.9882
+what is the status of the air conditioner ? 0.9889
+what is the status of the smart light ? 0.9923
+what is the pm2.5 of the pm2.5 monitor ? 0.9970
+what is the status of the pm2.5 monitor ? 0.9999
+
+7. what is the status of the air cleaner ?
+what is the pm2.5 of the pm2.5 monitor ? 0.9909
+what is the pm2.5 of the air purifier ? 0.9928
+what is the status of the smart light ? 0.9940
+what is the status of the air purifier ? 0.9963
+what is the status of the air conditioner ? 0.9973
+
+8. what is the temperature of the air conditioner ?
+what is the temperature in the sitting room ? 0.9831
+what is the status of the air purifier ? 0.9868
+what is the pm2.5 of the air purifier ? 0.9903
+what is the status of the air conditioner ? 0.9912
+what is the temperature of the air conditioner ? 0.9999
+
+9. what is the brightness of the smart light ?
+what is the pm2.5 of the air purifier ? 0.9837
+what is the status of the air conditioner ? 0.9851
+what is the brightness in the sitting room ? 0.9861
+what is the status of the smart light ? 0.9925
+what is the brightness of the smart light ? 0.9999
+
+10. what is the pm2.5 of the pm2.5 monitor ?
+what is the status of the air purifier ? 0.9879
+what is the status of the air conditioner ? 0.9895
+what is the status of the smart light ? 0.9924
+what is the status of the pm2.5 monitor ? 0.9970
+what is the pm2.5 of the pm2.5 monitor ? 0.9999
+
+11. what is the pm2.5 of the air purifier ?
+what is the status of the smart light ? 0.9858
+what is the temperature of the air conditioner ? 0.9903
+what is the status of the air conditioner ? 0.9942
+what is the status of the air purifier ? 0.9967
+what is the pm2.5 of the air purifier ? 0.9999
+

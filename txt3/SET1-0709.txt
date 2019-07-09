@@ -1,0 +1,17 @@
+increase the temperature and brightness of sitting room . 
+turn on the air conditioner in the sitting room .
+turn up the air-conditioning of living room . 
+open the air conditioner in the sitting room .
+turn up the light of the living room . 
+turn the smart light of the sitting room on . 
+turn down the light of sitting room .
+shut down the air detector in the sitting room . 
+How many degrees centigrade in the living room ? 
+what is the brightness in the sitting room ?
+what is the air quality of the living room ? 
+if the temperature in the sitting room is below 15 degrees , turn up the air-conditioning.
+if the temperature in the sitting room is less than 16 degrees, increase the temperature of sitting room .
+if the air quality of the sitting room is bad , turn on the air purifier . 
+if the air in the living room is awful , reduce the pm2.5 of the living room. 
+if the pm2.5 in the sitting room is more than 50, turn on the air cleaner of the sitting room. 
+if the pm2.5 in the sitting room is between 10 and 22, open the air purifier.

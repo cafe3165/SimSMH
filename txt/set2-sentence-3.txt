@@ -1,0 +1,3 @@
+what is the temperature of the air conditioner in the sitting room ?
+what is the brightness in the sitting room ?
+what is the pm2.5 in the sitting room ?

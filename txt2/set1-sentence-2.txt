@@ -1,0 +1,59 @@
+monitor the temperature in the sitting room .
+increase the temperature and brightness of sitting room .
+reduce the temperature in sitting room .
+assign the temperature of the sitting room .
+monitor the brightness of the sitting room .
+turn down the brightness of sitting room .
+assign the brightness of sitting room .
+reduce the brightness of sitting room .
+monitor the Particulate Matter2.5 of drawing room .
+improve the air quality in the living room .
+set the temperature of sitting room to 15 degrees centigrade .
+set the brightness of sitting room to 30.
+set the pm2.5 of sitting room to 4.
+turn on the air conditioner and air purifier in the sitting room .
+turn up the air-conditioning of living room .
+open the air conditioner in the sitting room .
+shut down the air conditioner in the sitting room .
+set the temperature of the air conditioner in the sitting room to 25 .
+turn the temperature of the air conditioner in the sitting room to 14 .
+turn up the light of the living room.
+turn the smart light of the sitting room on.
+open the smart light in the sitting room .
+turn down the light of sitting room .
+shut down the smart light in the sitting room .
+set the brightness of the smart light in the sitting room to 80 .
+turn the brightness of the smart light in the sitting room to 78 .
+turn on the air detector in the sitting room .
+turn off the pm2.5 monitor in the sitting room .
+open the Particulate Matter2.5 monitor in the sitting room .
+shut down the air detector in the sitting room .
+set the pm2.5 of the pm2.5 monitor in the sitting room to 14 .
+turn the pm2.5 of the pm2.5 monitor in the sitting room to 12 .
+turn on the air cleaner in the sitting room .
+turn off the air purifier in the sitting room .
+open the air purifier in the sitting room .
+shut down both air purifier and air conditioner in the sitting room .
+set the pm2.5 of the air purifier in the sitting room to 11 .
+turn the pm2.5 of the air purifier in the sitting room to 12.
+turn up the air-conditioning
+increase the temperature of sitting room
+set the temperature of sitting room to 20 degrees
+set the temperature of living room to 19 degrees
+shut down the air conditioner in the sitting room
+turn down the temperature
+turn off the air conditioner
+turn off the light
+turn off the smart light
+increase the brightness of sitting room
+reduce the brightness
+turn off the smart light
+turn off the smart light of sitting room
+set the brightness of sitting room to 25
+turn off the air purifier
+turn off the air purifier
+turn off the air purifier
+turn on the air purifier
+reduce the pm25 of the living room
+turn on the air cleaner of the sitting room
+open the air purifier

@@ -1,0 +1,5 @@
+if the temperature is higher than x in the sitting room
+if the temperature is lower than x
+if the brightness is between y and x in the sitting room
+if the brightness is higher than x
+if the pm25 is lower than x

@@ -1,0 +1,16 @@
+monitor the temperature of sitting room .
+increase the temperature of sitting room .
+reduce the temperature of sitting room .
+assign the temperature of sitting room .
+monitor the brightness of sitting room .
+increase the brightness of sitting room .
+assign the brightness of sitting room .
+reduce the brightness of sitting room .
+monitor the pm2.5 of sitting room .
+reduce the pm2.5 of sitting room .
+what is the temperature in the sitting room ?
+what is the brightness in the sitting room ?
+what is the pm2.5 in the sitting room ?
+set the temperature of sitting room to x .
+set the brightness of sitting room to x .
+set the pm2.5 of sitting room to x .

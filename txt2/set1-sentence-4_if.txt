@@ -1,0 +1,21 @@
+if the temperature in the sitting room is below 15 degrees 
+if the temperature in the sitting room is less than 16 degrees
+if the temperature in the sitting room is lower than 13 degrees
+if the temperature in the living room is above 27 degrees
+if the temperature in the sitting room is higher than 26 degrees centigrade 
+if the temperature in the sitting room is more than 30 degrees
+if the temperature in the sitting room is between 12 degrees and 26 degrees 
+if the sitting room is well lighted
+if the living room is bright
+if the brightness in the sitting room is lower than 15
+if the brightness in the sitting room is above 30
+if the brightness in the sitting room is higher than 35
+if the brightness in the sitting room is more than 30
+if the brightness in the sitting room is between 23 and 30
+if the pm25 in the sitting room is below 25
+if the pm25 in the sitting room is less than 24 
+if the pm25 in the sitting room is lower than 30
+if the air quality of the sitting room is bad 
+if the air in the living room is awful 
+if the pm25 in the sitting room is more than 50
+if the pm25 in the sitting room is between 10 and 22

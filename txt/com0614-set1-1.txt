@@ -1,0 +1,21 @@
+Is the light on in the living room ?
+is the air conditioner on ? 0.9689
+is the smart light off ? 0.9724
+is the pm2.5 monitor off ? 0.9758
+is the pm2.5 monitor on ? 0.9781
+is the smart light on ? 0.9781
+
+Is the air conditioner working now ?
+is the pm2.5 monitor off ? 0.9673
+is the air purifier off ? 0.9737
+is the air purifier on ? 0.9753
+is the air conditioner off ? 0.9857
+is the air conditioner on ? 0.9878
+
+Is the air conditioner cooling now ?
+is the smart light off ? 0.9508
+is the air purifier off ? 0.9714
+is the air purifier on ? 0.9718
+is the air conditioner off ? 0.9835
+is the air conditioner on ? 0.9844
+
