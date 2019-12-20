@@ -1,0 +1,7 @@
+if the temperature in the sitting room is below x
+if the temperature in the sitting room is less than x
+if the temperature of the sitting room is lower than x
+if the temperature in the sitting room is above x
+if the temperature in the sitting room is higher than x
+if the temperature in the sitting room is more than x
+if the temperature in the sitting room is between x and y

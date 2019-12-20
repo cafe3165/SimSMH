@@ -1,1 +1,6 @@
 1
+不存在设备
+location:['sitting room']
+attribute:['temperature']
+operation:increase
+increase the temperature in the sitting room.

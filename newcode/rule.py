@@ -2,10 +2,8 @@
 # -- coding: utf-8 -
 
 
-import time
 from stanfordcorenlp import StanfordCoreNLP
 from py2neo import Graph, Node, Relationship, RelationshipMatcher
-import re
 
 graph = Graph("bolt://127.0.0.1:7687", username='neo4j', password='123456')
 nlp = StanfordCoreNLP(r'stanford-corenlp-full-2018-10-05')
@@ -16,27 +14,18 @@ nlp = StanfordCoreNLP(r'stanford-corenlp-full-2018-10-05')
 save_path = 'exttst.txt'
 
 def f(line):
-    dobj_1 = ''
-    dobj_index = 0
-    dobj_com = ''
     entity1 =''
     vb_beg = ''
     vb_end = ''
     vb = ''
-    first_entity_dict = {'Node': [], 'Type': ''}
-    dobj_index = 0
     attribute = []
     location = []
     device = []
     att_dev = []
     dev_loc = []
     isFindWP = False
-    word_list=[]
-    denpar_list = []
 
-    # print(6666)
-    # print(6666)
-    # print(6666)
+
     print(nlp.word_tokenize(line))
 
     word_list = nlp.pos_tag(line)
@@ -288,38 +277,9 @@ def f(line):
         else:
             rf.write("不存在操作"+'\n')
         rf.write(line)
-# file = open(load_path)
-# line = file.readline()
 
-# line="turn off the air conditioner in the sitting room."
-# line="turn on the light in the sitting room."
-# line="turn on the light."
 
 line = "increase the temperature in the sitting room."
-# line="Set the brightness of the Light to 25."
-# line="what is the temperature in the sitting room?"
-# line="what is the value of temperature of the air conditioner?"
 
-# line="Assign the temperature of the air conditioner in the sitting room to 25"
-# line="assign the temperature of the sitting room to 28 degrees."
-# line="turn off the light in bedroom."
-# line="turn up the temperature of air conditioner in bedroom."
-# line="increase the humidity of balcony."
-
-
-# print(line)
-# n = 1
-# print(n)
-# with open(save_path, "a")as f1:
-#     f1.write(str(n) + '\n')
 f(line)
-#
-# while line:
-#     n=n+1
-#     print(n)
-#     # line = file.readline()
-#     with open(save_path,"a")as f2:
-#         f2.write(str(n)+'\n')
-#     f(line)
-#     break
-# file.close()
+
