@@ -15,6 +15,17 @@ def f(sentence):
     word_list = nlp.pos_tag(sentence)
     print(denpar_list)
     print(word_list)
+
+    # 句式判断
+    for w in word_list:
+        if w[1] == 'IN':
+            # 条件句
+            isIf = True
+            break
+
+
+
+
     # for par in denpar_list:
     #     vb_index = par[2]
     #     if word_list[par[2] - 1][1] == 'VB':
@@ -28,7 +39,12 @@ def f(sentence):
 
     for d in denpar_list:
         print(d[0],d[1],d[2])
-    # for w in word_list:
+    for index, word in enumerate(word_list):
+        if word[1] == 'NN':
+            first_entity_dict = {'Node': [], 'Type': ''}
+
+            node_d = graph.nodes.match('Device', DName=word[0])
+            node_l = graph.nodes.match('Location', LName=word[0])
 
     return
 
