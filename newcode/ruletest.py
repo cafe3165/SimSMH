@@ -10,7 +10,6 @@ nlp = StanfordCoreNLP(r'stanford-corenlp-full-2018-10-05')
 
 
 def f(sentence):
-    # print(nlp.parse(line))
     denpar_list=nlp.dependency_parse(sentence)
     word_list = nlp.pos_tag(sentence)
     print(denpar_list)
@@ -22,10 +21,6 @@ def f(sentence):
             # 条件句
             isIf = True
             break
-
-
-
-
     # for par in denpar_list:
     #     vb_index = par[2]
     #     if word_list[par[2] - 1][1] == 'VB':
@@ -42,14 +37,12 @@ def f(sentence):
     for index, word in enumerate(word_list):
         if word[1] == 'NN':
             first_entity_dict = {'Node': [], 'Type': ''}
-
-            node_d = graph.nodes.match('Device', DName=word[0])
-            node_l = graph.nodes.match('Location', LName=word[0])
+            entity1_node_s = graph.nodes.match('Service', CType=word[0])
 
     return
 
 
-line = "if the temperature in the sitting room is below x"
+line = "if the temperature in the sitting room is below 22"
 
 f(line)
 
