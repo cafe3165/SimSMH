@@ -1,46 +1,53 @@
 # SimSMH
 智能家居服务用况相似度计算
 
-# 1.Usage Scenario
+# 1. Usage Scenario
 ###  Overview 
-![scen.png](https://i.loli.net/2020/04/29/szTxySMoWqefDrv.png)
+  <div  align="center"> <img src="https://i.loli.net/2020/05/12/KgtdUW97Y1OZboV.png" /> </div> 
 
 ###  Smart Home Knowledge Graph
-![all.png](https://i.loli.net/2020/04/29/rigPo8wUJMSsxdb.png)
+ <div  align="center"> <img src="https://i.loli.net/2020/05/12/wfcmE9sWtNAqP1M.png" /> </div>
 
 >Explanation of Nouns
->![ex.png](https://i.loli.net/2020/04/29/KRJqZ6EwzUdI4Mx.png)
+>![detail.png](https://i.loli.net/2020/05/12/l8FXgq9aMEzSeOK.png)
 
 
 
 #### 1. Sitting Room Knowledge Graph
 
-![sr.png](https://i.loli.net/2020/04/29/tNrCdu5FTSZQ81k.png)
+  <div  align="center"> <img src="https://i.loli.net/2020/05/12/ZvCaXx5NETk3q6b.png" /> </div> 
+
+
 
 #### 2. Bedroom Knowledge Graph
-![bed.png](https://i.loli.net/2020/04/29/hIgtsvYeBcdzi59.png)
+<div  align="center"> <img src="https://i.loli.net/2020/05/12/iEB4LN7psCoJZMT.png" /> </div>
 
 #### 3. Balcony Knowledge Graph
-![bal.png](https://i.loli.net/2020/04/29/frTnXJ1Vpw3oIjC.png)
+<div  align="center"> <img src="https://i.loli.net/2020/05/12/NhajSTW8l6IZDkJ.png" /> </div>
 
 
 
 # 2. Matching Process Example
 
-
 ![use.png](https://i.loli.net/2020/04/29/8b6GAlKjy1Jxfwe.png)
 
+#  3. Concept Instances in the Knowledge Graph for Smart Home 
 
-# 3. Experimental Results
 
-### 3.1 Base Set
+
+![Concept Instances.png](https://i.loli.net/2020/05/12/ZYTuGClJ9hnOpoU.png)
+
+
+# 4. Experimental Results
+
+### 4.1 Base Set
 https://github.com/cafe3165/cafe.github.io/blob/master/data%20set/Base%20Set.txt
 
-### 3.2 Paraphrase Set
+### 4.2 Paraphrase Set
 
 https://github.com/cafe3165/cafe.github.io/blob/master/data%20set/Paragphrase%20Set.txt
 
-### 3.3 Scenarios Set 
+### 4.3 Scenarios Set 
 
 https://github.com/cafe3165/cafe.github.io/blob/master/data%20set/Scenarios%20Set.txt
 
